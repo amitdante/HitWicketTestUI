@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hitwicket Assignment", "Assembly-CSharp.csproj", "{1E50C04C-5899-98E4-E0B2-BEE793F6DE06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hitwicket Assignment", "Assembly-CSharp-firstpass.csproj", "{DCDD0202-A45B-5715-034D-E8400FB22C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E50C04C-5899-98E4-E0B2-BEE793F6DE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E50C04C-5899-98E4-E0B2-BEE793F6DE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E50C04C-5899-98E4-E0B2-BEE793F6DE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E50C04C-5899-98E4-E0B2-BEE793F6DE06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDD0202-A45B-5715-034D-E8400FB22C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDD0202-A45B-5715-034D-E8400FB22C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDD0202-A45B-5715-034D-E8400FB22C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDD0202-A45B-5715-034D-E8400FB22C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
