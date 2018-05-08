@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreManipulator.cs">
     <Files>
-      <File FileName="Assets\Scripts\ScoreManipulator.cs" Line="8" Column="3" />
-      <File FileName="Assets\Scripts\MenuManager.cs" Line="43" Column="1" />
-      <File FileName="Assets\Scripts\ScoreAdder.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\ScoreManipulator.cs" Line="44" Column="31" />
+      <File FileName="Assets\Scripts\MenuManager.cs" Line="36" Column="38" />
+      <File FileName="Assets\Scripts\ScoreAdder.cs" Line="23" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
